@@ -11,10 +11,10 @@ set(UVC_VERSION FALSE)
 
 set(SYSTEMC_VERSION 2.3.3)
 
-set(VERILATOR_VERSION 4.228)
-set(VERILATOR_HOME /cerneda/various/RHELx86/verilator-4.228/)
+set(VERILATOR_VERSION FALSE)
+# set(VERILATOR_HOME /cerneda/various/RHELx86/verilator-4.228/)
 
-set(GCC_HOME /cerneda/utils/gcc/gcc-12.2.0/x86_64-centos7/ )
+# set(GCC_HOME /cerneda/utils/gcc/gcc-12.2.0/x86_64-centos7/ )
 #
 
 
