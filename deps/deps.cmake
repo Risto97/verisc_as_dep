@@ -1,4 +1,4 @@
-include("${CMAKE_CURRENT_LIST_DIR}/../cfg.cmake")
+include("${CMAKE_CURRENT_LIST_DIR}/../deps_cfg.cmake")
 
 set(VERISC_INSTALL_DIR "${CMAKE_CURRENT_LIST_DIR}/verisc")
 
